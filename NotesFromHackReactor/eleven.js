@@ -9,4 +9,7 @@ console.log(person)
 //add pets as arr of strings with the names Piggies Smalls and Huey Pig Newton
 person.pets = ["piggie smalls", "huey pig newton"]
 
-console.log('new', person) 
+console.log('new', person)
+
+
+
