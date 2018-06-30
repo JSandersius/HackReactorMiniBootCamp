@@ -5,7 +5,7 @@ var sum = 0;
 
 
 
-for (var i = 0; i < numbers.length; i++) {
+for (var i = 0; i < numbers.length; i++) {   // we want to do this within our function -->  
     product = product * numbers[i];
     //seperate function 
 }
@@ -18,4 +18,5 @@ var each = function (array, func) {
     }
 }
 each(nums)
+
 
